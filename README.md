@@ -14,6 +14,6 @@ where m= number of candidates you would like to have and n= number of courses yo
 
 Compare different methods based on Monte Carlos Simulation and plot out figures into the folder `figures\numOfCandidates_numOfCourse_numOfSimulations`
 
-`py methods.py --num_candidate m --num_course n --if_figure True --num_simulation k --save_to PATH`
+`py methods.py --num_candidate m --num_course n --if_figure True --num_simulation k`
 
 where m= number of candidates you would like to have and n= number of courses you would like to have. And k is the number of simulations you would like to run. A number greater than 100 is suggested.
