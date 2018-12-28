@@ -5,9 +5,7 @@ import numpy as np
 from scipy.optimize import linear_sum_assignment
 import networkx as nx
 import matplotlib.pyplot as plt
-import time
 import progressbar
-import os
 from pathlib import Path
 
 pd.set_option('display.max_rows', 500)
